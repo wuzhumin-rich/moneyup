@@ -1,0 +1,9 @@
+{
+  "name": "每日有数",
+  "short_name": "每日有数",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#164e42",
+  "scope": "./"
+}
